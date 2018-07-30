@@ -77,6 +77,8 @@
 
 ## GITHUB
 
+[blender-scripting](https://github.com/njanakiev/blender-scripting)
+
 [panda3d](https://github.com/panda3d/panda3d)
 
 [id-Software](https://github.com/id-Software):历来各个游戏的完整代码
@@ -526,7 +528,8 @@
 [blenderget](http://www.blenderget.com/blender-and-monument-valley/)、
 [steam](http://store.steampowered.com/app/365670/Blender/)、
 [mogurijin](https://mogurijin.wordpress.com/)、
-[zhihu](https://zhuanlan.zhihu.com/blender)
+[zhihu](https://zhuanlan.zhihu.com/blender)、
+[marginal.org.uk](https://marginal.org.uk/x-planescenery/)
 
 
 ## panda3d
