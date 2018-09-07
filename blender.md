@@ -82,6 +82,8 @@
 
 39.[bouncy_ball](https://github.com/diegogangl/bouncy_ball):A toy addon for Blender
 
+40.[manuelbastioni](http://www.manuelbastioni.com/download.php):人物模型
+
 #### 磨刀不误砍柴工
 
 ###### Github topic
