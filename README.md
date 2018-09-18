@@ -77,6 +77,10 @@
 
 ## GITHUB
 
+[sverchok_nodes_collection](https://github.com/kalwalt/sverchok_nodes_collection)
+
+[blender-2d-maze-generator](http://elfnor.com/blender-2d-maze-generator.html)
+
 [blender-scripting](https://github.com/njanakiev/blender-scripting)
 
 [panda3d](https://github.com/panda3d/panda3d)
