@@ -405,6 +405,8 @@
 
 ## Resources
 
+[sverchok](http://nikitron.cc.ua/sverchok_en.html)
+
 [blenderswap](http://blendswap.com/): free blender meshes, materials, and whatnot 
 
 [cgtextures](http://cgtextures.com/): free textures
